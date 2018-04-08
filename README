@@ -1,0 +1,10 @@
+This is an installer to a set of features to be installed on localhost. 
+
+This is the list of installed packaged:
+
+- Ngnix
+- phpMyAdmin
+- mysql
+- python
+
+Execute the bash file to install the packages and configuration.
