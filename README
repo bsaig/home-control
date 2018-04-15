@@ -8,3 +8,10 @@ This is the list of installed packaged:
 - python
 
 Execute the bash file to install the packages and configuration.
+
+Parts used:
+
+1 - The meter use in the imemodbus.py is an IME Conto D4-Pt CE4DMID:
+http://www.rayleigh.com/ime-conto-d4ptmid-ce4dmid01-certified-three-phase-network-energy-meter.html
+Protocal communication document can be found here:
+http://www.rayleigh.com/media/uploads/Conto_D4-Pt_-_CE4DMID01_PR115-00.pdf
